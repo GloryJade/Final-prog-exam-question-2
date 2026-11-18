@@ -1,0 +1,9 @@
+****************************************
+CUSTOMER NAME: Jade
+PRODUCT NAME: Restonic Barbados
+PRODUCT PRICE: R 50,00
+VAT (15%): R 7,50
+COMMISSION (5%): R 2,50
+TOTAL SALE AMOUNT: R 60,00
+****************************************
+
